@@ -1,0 +1,15 @@
+\ProvidesPackage{citation}[2009/09/16 A Personal Package]
+
+% un ambiente ad hoc per le citazioni
+\newenvironment{citation}%
+  {\begin{quotation}\small\ignorespaces}%
+  {\end{quotation}}
+
+% [...] 
+\newcommand{\omissis}{[\dots\negthinspace]}
+
+% indica a LaTeX la cartella dove sono riposte le immagini
+\graphicspath{{Images/}}
+
+% eccezioni all'algoritmo di sillabazione
+\hyphenation{}

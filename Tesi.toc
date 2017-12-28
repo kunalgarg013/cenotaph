@@ -1,0 +1,64 @@
+\select@language {english}
+\vspace {-\cftbeforechapskip }
+\contentsline {chapter}{Introduction}{1}{figure.caption.1}
+\contentsline {chapter}{\numberline {1}Physics of the Quark-Gluon Plasma}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Standard model}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}QCD and Quark-Gluon Plasma}{8}{section.1.2}
+\contentsline {section}{\numberline {1.3}Heavy-Ion collisions}{16}{section.1.3}
+\contentsline {chapter}{\numberline {2}Strangeness production in a Quark-Gluon Plasma}{23}{chapter.2}
+\contentsline {section}{\numberline {2.1}Strange quark and hyperons}{23}{section.2.1}
+\contentsline {section}{\numberline {2.2}Strangeness as a QGP signature}{25}{section.2.2}
+\contentsline {section}{\numberline {2.3}Theoretical models}{30}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Hydrodynamic models}{30}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Microscopic models}{31}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Statistical models}{32}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Event Generators}{37}{subsection.2.3.4}
+\contentsline {section}{\numberline {2.4}Production mechanisms}{38}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Nuclear modification factors}{40}{subsection.2.4.1}
+\contentsline {chapter}{\numberline {3}The ALICE experiment}{45}{chapter.3}
+\contentsline {section}{\numberline {3.1}The LHC project}{45}{section.3.1}
+\contentsline {section}{\numberline {3.2}The ALICE project}{48}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}The ALICE detector}{48}{subsection.3.2.1}
+\contentsline {subsubsection}{ITS}{52}{table.caption.32}
+\contentsline {subsubsection}{TPC}{54}{figure.caption.35}
+\contentsline {subsubsection}{VZERO}{56}{figure.caption.37}
+\contentsline {subsection}{\numberline {3.2.2}Data Acquisition (DAQ) and Trigger systems}{57}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Data flow: from the Online to the Offline}{58}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}ALICE Offline software framework}{60}{subsection.3.2.4}
+\contentsline {subsubsection}{The AliEn Framework}{60}{subsection.3.2.4}
+\contentsline {subsubsection}{The AliRoot Framework}{60}{figure.caption.39}
+\contentsline {subsection}{\numberline {3.2.5}Event reconstruction}{62}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Particle identification with the TPC}{65}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Centrality definition and determination}{67}{subsection.3.2.7}
+\contentsline {chapter}{\numberline {4}Cascade identification using topological reconstruction}{71}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction to multi-strange baryons}{71}{section.4.1}
+\contentsline {section}{\numberline {4.2}Topological reconstruction}{75}{section.4.2}
+\contentsline {section}{\numberline {4.3}Reconstruction in pp\ and \unhbox \voidb@x \hbox {Pb--Pb}\ environments}{78}{section.4.3}
+\contentsline {chapter}{\numberline {5}Multi-strange baryon analysis in \unhbox \voidb@x \hbox {Pb--Pb}\ collisions}{81}{chapter.5}
+\contentsline {section}{\numberline {5.1}Data sample and event selection}{81}{section.5.1}
+\contentsline {section}{\numberline {5.2}Topological cuts and invariant mass distri\discretionary {-}{}{}bution}{83}{section.5.2}
+\contentsline {section}{\numberline {5.3}Transverse momentum spectra}{100}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Signal extraction}{100}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Acceptance-efficiency correction}{103}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Normalization}{111}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Point-by-point systematic uncertainties}{112}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}Corrected spectra}{117}{subsection.5.3.5}
+\contentsline {subsection}{\numberline {5.3.6}Analysis check: $c\tau $}{118}{subsection.5.3.6}
+\contentsline {section}{\numberline {5.4}Yield extraction}{120}{section.5.4}
+\contentsline {chapter}{\numberline {6}Multi-strange baryon analysis in pp\ collisions}{125}{chapter.6}
+\contentsline {section}{\numberline {6.1}Data sample and event selection}{125}{section.6.1}
+\contentsline {section}{\numberline {6.2}Topological cuts and invariant mass distri\discretionary {-}{}{}bution}{127}{section.6.2}
+\contentsline {section}{\numberline {6.3}Transverse momentum spectra}{130}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Signal extraction}{130}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Acceptance-efficiency correction}{130}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Normalization to the inelastic collisions}{138}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Point-by-point systematic uncertainties}{140}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}Corrected spectra}{144}{subsection.6.3.5}
+\contentsline {subsection}{\numberline {6.3.6}Analysis check: $c\tau $}{144}{subsection.6.3.6}
+\contentsline {section}{\numberline {6.4}Yield extraction}{145}{section.6.4}
+\contentsline {chapter}{\numberline {7}Further results and discussion}{151}{chapter.7}
+\contentsline {section}{\numberline {7.1}Spectra comparison with model predictions}{151}{section.7.1}
+\contentsline {section}{\numberline {7.2}Strangeness enhancements}{154}{section.7.2}
+\contentsline {section}{\numberline {7.3}Nuclear modification factors}{160}{section.7.3}
+\contentsline {chapter}{Conclusions}{169}{figure.caption.133}
+\contentsline {chapter}{Bibliography}{171}{figure.caption.133}

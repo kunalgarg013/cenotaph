@@ -1,0 +1,109 @@
+\documentclass[fontsize=12pt,                           % font dimension
+               paper=a4,                                % A4 paper
+               twoside,                                 % front-back
+               open=right,                              % start chapter on the right page
+               titlepage,                               % frontespizio
+               numbers=noenddot,                        %
+               %cleardoublepage=empty,                  % with page between chapters
+               headinclude,                             % to add head text in a page
+               footinclude,                             % to add foot text in a page
+               BCOR=12mm,                               %
+               DIV=calc,                                %
+               %captions=tableheading                   % 
+               ]{book}                                                  
+
+
+\linespread{1.25}
+
+\usepackage[applemac]{inputenc}                
+\usepackage{scrextend}
+\usepackage[T1]{fontenc}                           
+\usepackage[english]{babel}                        
+\usepackage{indentfirst}                             
+\usepackage{amsmath,amssymb,amsthm} 
+\usepackage[compatibility=false]{caption}
+\usepackage[tight,english]{minitoc}         
+\usepackage{subfig}                               
+
+\usepackage[eulerchapternumbers,             
+                        subfig,                           
+                        beramono,                      
+                        eulermath,                      
+                        pdfspacing,                     
+                        dottedtoc]{classicthesis}   
+\usepackage{arsclassica}         
+\usepackage[
+  includehead,includefoot,
+  textwidth=336pt,
+  textheight=675pt,
+]{geometry}
+\usepackage{graphicx}                                     
+\usepackage{epsfig,rotating}                           
+\usepackage{epstopdf}                                   
+\usepackage{colortbl}                                    
+\usepackage{feynmf}                                     
+\newcolumntype{G}{>{\columncolor[gray]{0.8}}c}
+
+\usepackage{citation}                                   
+%\usepackage[left=3cm,right=3cm]{geometry}
+%\hypersetup{linkcolor=red}
+\renewcommand\thefootnote{\textcolor{NavyBlue}{\arabic{footnote}}}
+                                                                                                                             %delle footnote
+\usepackage{listings}                
+\lstset{language=[Visual]C++,  
+basicstyle=\scriptsize\ttfamily}
+
+%\usepackage{lineno}    % inserire numero di pagina
+%\linenumbers
+
+\usepackage[Bjornstrup]{fncychap}    
+\ChNumVar{\fontsize{76}{80}\usefont{OT1}{ppl}{m}{n}\selectfont}
+\ChTitleVar{\raggedright\Large\usefont{OT1}{iwona}{b}{sc}}
+\newcommand{\virgolette}[1]{``#1''}
+\usepackage{mathrsfs}
+\usepackage{verbatim}
+
+\renewcommand\cftchapfont{\bf}                                            
+\renewcommand{\MakeMarkcase}[1]{\spacedlowsmallcaps{#1}}
+                                                                                            
+\usepackage{natbib}  
+\renewcommand\bibsection{
+            \chapter*{Bibliography}
+             \markboth{\spacedlowsmallcaps{Bibliography}}{\spacedlowsmallcaps{Bibliography}}
+}                                                                                                           
+                                                                                                     
+                                                                                                                    
+\usepackage{soul}
+\input{ThesisCommands.tex}
+
+\usepackage{hyphenat}
+\hyphenation{ALICE cor-re-spon-ding stud-ies re-spec-tive-ly strange-ness en-hancement re-vis-it-ed com-pe-ti-tion co-a-lesc-ence tem-per-a-ture re-con-struc-tion re-spec-tive-ly e-quiv-a-lently fer-mi-ons ob-serv-a-bles vol-umes cor-re-spond-ence char-ac-ter-ized ex-ist-ence proc-ess bar-y-ons con-sid-er-a-tion ther-mo-dy-nam-ical de-vel-op-ed had-ron con-serv-ing as-pects typ-i-cal en-er-gy po-wer-ful az-i-muthal lim-it-ed val-ues granu-lari-ty meas-ured cor-re-spond-ing dis-tri-bu-tion in-var-i-ant cen-tral-i-ty pan-els cas-cades cor-rec-tion gen-er-at-ed cov-ered com-par-i-son es-ti-mate clus-ters ac-cept-ance-ef-fi-cien-cy cor-rec-tion ar-e-as es-pe-cial-ly sta-tis-ti-cal re-proc-es-sings topo-logi-cal meas-ure-ment in-heren-tly cor-re-spond-ing com-ing}
+
+%*****************************************************************
+\begin{document}
+\pagenumbering{roman}
+\pagestyle{plain}
+%*****************************************************************
+\input{Chapters/0-Title_page}
+\pagestyle{scrheadings} 
+\cleardoublepage\input{Chapters/Citation}
+\cleardoublepage\input{Chapters/1-List_of_contents}
+\cleardoublepage\input{Chapters/2-List_of_figures}
+\cleardoublepage\input{Chapters/3-List_of_tables}
+\cleardoublepage
+\pagenumbering{arabic}
+\cleardoublepage\input{Chapters/4-Introduction}
+\cleardoublepage\input{Chapters/5-Chapter1}
+\cleardoublepage\input{Chapters/6-Chapter2}
+\cleardoublepage\input{Chapters/7-Chapter3}
+\cleardoublepage\input{Chapters/8-Chapter4}
+\cleardoublepage\input{Chapters/9-Chapter5}
+\cleardoublepage\input{Chapters/10-Chapter6}
+\cleardoublepage\input{Chapters/11-Chapter7}
+\cleardoublepage\input{Chapters/12-Conclusions}
+%\appendix
+\cleardoublepage\input{Chapters/Bibliography}
+
+%*****************************************************************
+\end{document}
+
