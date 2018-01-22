@@ -1,57 +1,11 @@
-\BOOKMARK [0][]{figure.caption.1}{Introduction}{}
-\BOOKMARK [0][]{chapter.1}{1 Physics of the Quark-Gluon Plasma}{}
-\BOOKMARK [1][-]{section.1.1}{1.1 Standard model}{chapter.1}
-\BOOKMARK [1][-]{section.1.2}{1.2 QCD and Quark-Gluon Plasma}{chapter.1}
-\BOOKMARK [1][-]{section.1.3}{1.3 Heavy-Ion collisions}{chapter.1}
-\BOOKMARK [0][]{chapter.2}{2 Strangeness production in a Quark-Gluon Plasma}{}
-\BOOKMARK [1][-]{section.2.1}{2.1 Strange quark and hyperons}{chapter.2}
-\BOOKMARK [1][-]{section.2.2}{2.2 Strangeness as a QGP signature}{chapter.2}
-\BOOKMARK [1][-]{section.2.3}{2.3 Theoretical models}{chapter.2}
-\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Hydrodynamic models}{section.2.3}
-\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Microscopic models}{section.2.3}
-\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 Statistical models}{section.2.3}
-\BOOKMARK [2][-]{subsection.2.3.4}{2.3.4 Event Generators}{section.2.3}
-\BOOKMARK [1][-]{section.2.4}{2.4 Production mechanisms}{chapter.2}
-\BOOKMARK [2][-]{subsection.2.4.1}{2.4.1 Nuclear modification factors}{section.2.4}
-\BOOKMARK [0][]{chapter.3}{3 The ALICE experiment}{}
-\BOOKMARK [1][-]{section.3.1}{3.1 The LHC project}{chapter.3}
-\BOOKMARK [1][-]{section.3.2}{3.2 The ALICE project}{chapter.3}
-\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 The ALICE detector}{section.3.2}
-\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Data Acquisition \(DAQ\) and Trigger systems}{section.3.2}
-\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Data flow: from the Online to the Offline}{section.3.2}
-\BOOKMARK [2][-]{subsection.3.2.4}{3.2.4 ALICE Offline software framework}{section.3.2}
-\BOOKMARK [2][-]{subsection.3.2.5}{3.2.5 Event reconstruction}{section.3.2}
-\BOOKMARK [2][-]{subsection.3.2.6}{3.2.6 Particle identification with the TPC}{section.3.2}
-\BOOKMARK [2][-]{subsection.3.2.7}{3.2.7 Centrality definition and determination}{section.3.2}
-\BOOKMARK [0][]{chapter.4}{4 Cascade identification using topological reconstruction}{}
-\BOOKMARK [1][-]{section.4.1}{4.1 Introduction to multi-strange baryons}{chapter.4}
-\BOOKMARK [1][-]{section.4.2}{4.2 Topological reconstruction}{chapter.4}
-\BOOKMARK [1][-]{section.4.3}{4.3 Reconstruction in pp and Pb\205Pb environments}{chapter.4}
-\BOOKMARK [0][]{chapter.5}{5 Multi-strange baryon analysis in Pb\205Pb collisions}{}
-\BOOKMARK [1][-]{section.5.1}{5.1 Data sample and event selection}{chapter.5}
-\BOOKMARK [1][-]{section.5.2}{5.2 Topological cuts and invariant mass distribution}{chapter.5}
-\BOOKMARK [1][-]{section.5.3}{5.3 Transverse momentum spectra}{chapter.5}
-\BOOKMARK [2][-]{subsection.5.3.1}{5.3.1 Signal extraction}{section.5.3}
-\BOOKMARK [2][-]{subsection.5.3.2}{5.3.2 Acceptance-efficiency correction}{section.5.3}
-\BOOKMARK [2][-]{subsection.5.3.3}{5.3.3 Normalization}{section.5.3}
-\BOOKMARK [2][-]{subsection.5.3.4}{5.3.4 Point-by-point systematic uncertainties}{section.5.3}
-\BOOKMARK [2][-]{subsection.5.3.5}{5.3.5 Corrected spectra}{section.5.3}
-\BOOKMARK [2][-]{subsection.5.3.6}{5.3.6 Analysis check: c}{section.5.3}
-\BOOKMARK [1][-]{section.5.4}{5.4 Yield extraction}{chapter.5}
-\BOOKMARK [0][]{chapter.6}{6 Multi-strange baryon analysis in pp collisions}{}
-\BOOKMARK [1][-]{section.6.1}{6.1 Data sample and event selection}{chapter.6}
-\BOOKMARK [1][-]{section.6.2}{6.2 Topological cuts and invariant mass distribution}{chapter.6}
-\BOOKMARK [1][-]{section.6.3}{6.3 Transverse momentum spectra}{chapter.6}
-\BOOKMARK [2][-]{subsection.6.3.1}{6.3.1 Signal extraction}{section.6.3}
-\BOOKMARK [2][-]{subsection.6.3.2}{6.3.2 Acceptance-efficiency correction}{section.6.3}
-\BOOKMARK [2][-]{subsection.6.3.3}{6.3.3 Normalization to the inelastic collisions}{section.6.3}
-\BOOKMARK [2][-]{subsection.6.3.4}{6.3.4 Point-by-point systematic uncertainties}{section.6.3}
-\BOOKMARK [2][-]{subsection.6.3.5}{6.3.5 Corrected spectra}{section.6.3}
-\BOOKMARK [2][-]{subsection.6.3.6}{6.3.6 Analysis check: c}{section.6.3}
-\BOOKMARK [1][-]{section.6.4}{6.4 Yield extraction}{chapter.6}
-\BOOKMARK [0][]{chapter.7}{7 Further results and discussion}{}
-\BOOKMARK [1][-]{section.7.1}{7.1 Spectra comparison with model predictions}{chapter.7}
-\BOOKMARK [1][-]{section.7.2}{7.2 Strangeness enhancements}{chapter.7}
-\BOOKMARK [1][-]{section.7.3}{7.3 Nuclear modification factors}{chapter.7}
-\BOOKMARK [0][]{figure.caption.133}{Conclusions}{}
-\BOOKMARK [0][]{figure.caption.133}{Bibliography}{}
+\BOOKMARK [0][]{figure.caption.1}{Introduction}{}% 1
+\BOOKMARK [0][]{chapter.1}{1 Physics of the Quark-Gluon Plasma}{}% 2
+\BOOKMARK [0][]{chapter.2}{2 Strangeness production in a Quark-Gluon Plasma}{}% 3
+\BOOKMARK [0][]{chapter.3}{3 The ALICE experiment}{}% 4
+\BOOKMARK [1][-]{section.3.1}{3.1 Large Hadron Collider}{chapter.3}% 5
+\BOOKMARK [0][]{chapter.4}{4 Cascade identification using topological reconstruction}{}% 6
+\BOOKMARK [0][]{chapter.5}{5 Multi-strange baryon analysis in Pb\205Pb collisions}{}% 7
+\BOOKMARK [0][]{chapter.6}{6 Multi-strange baryon analysis in pp collisions}{}% 8
+\BOOKMARK [0][]{chapter.7}{7 Further results and discussion}{}% 9
+\BOOKMARK [0][]{chapter.7}{Conclusions}{}% 10
+\BOOKMARK [0][]{chapter.7}{Bibliography}{}% 11

@@ -1,66 +1,106 @@
-\newcommand{\pip}          {$\pi^{+}$}
-\newcommand{\pim}          {$\pi^{-}$}
-\newcommand{\pitot}        {$\pi$}
-\newcommand{\kap}          {K$^{+}$}
-\newcommand{\kam}          {K$^{-}$}
-\newcommand{\kzeros}      {K$^{0}_{S}$}
-\newcommand{\pbar}         {$\rm\overline{p}$}
-\newcommand{\lam}          {$\Lambda$}
-\newcommand{\alam}        {$\overline{\Lambda}$}
-\newcommand{\csi}          {$\Xi$}
-\newcommand{\csim}         {$\Xi^{-}$}
-\newcommand{\csip}         {$\overline{\Xi}^{+}$}
-\newcommand{\om}           {$\Omega$}
-\newcommand{\omm}          {$\Omega^{-}$}
-\newcommand{\omp}          {$\overline{\Omega}^{+}$}
-\newcommand{\ssbar}        {$s\overline{s}$}
 
-\newcommand{\degree}       {$^{\rm o}$}
-\newcommand{\s}            {$\sqrt{s}$}
-\newcommand{\pt}           {$p_{\rm T}$}
-\newcommand{\GeV}          {GeV/$c$}
-\newcommand{\MeV}          {MeV/$c^2$}
-\newcommand{\dedx}         {d$E$/d$x$}
-\newcommand{\dndy}         {d$N$/d$y$}
-\newcommand{\dndydpt}      {${\rm d}^2N/({\rm d}y {\rm d}p_{\rm t})$}
-\newcommand{\pp}             {pp}
-\newcommand{\pPb}          {\mbox{p--Pb}}
-\newcommand{\ppbar}        {\mbox{\mathrm {p\overline{p}}}}
-\newcommand{\PbPb}         {\mbox{Pb--Pb}}
-\newcommand{\AuAu}         {\mbox{Au--Au}}
-\newcommand{\NN}            {\mbox{A--A}}
-\newcommand{\pN}            {\mbox{p--A}}
-\newcommand{\spA}          {$\sqrt{s_{\mathrm{pA}}}$}
-\newcommand{\spPb}          {$\sqrt{s_{\mathrm{pPb}}}$}
-\newcommand{\raa}           {$R_{\rm AA}$}
-\newcommand{\rcp}           {$R_{\rm CP}$}
-\newcommand{\snn}          {$\sqrt{s_{\mathrm{NN}}}$}
-\newcommand{\snnbf}        {\ensuremath{\mathbf{{\sqrt{s_{\mathbf NN}}}}}}
-\newcommand{\sonly}        {$\sqrt{s}$ }
-\newcommand{\sonlybf}        {\ensuremath{\mathbf{{\sqrt{s}}}}}
-\newcommand{\pseudorap}    {\mbox{$\left | \eta \right | $}}
-\newcommand{\dNdeta}       {\mathrm{d}N_\mathrm{ch}/\mathrm{d}\eta}
-\newcommand{\lum}          {\, \mbox{${\rm cm}^{-2} {\rm s}^{-1}$}}
-\newcommand{\barn}         {\, \mbox{${\rm barn}$}}
-\newcommand{\m}            {\, \mbox{${\rm m}$}}
-\newcommand{\dg}           {\mbox{$^\circ$}}
-\newcommand{\stat}         {({\it stat.})~}
-\newcommand{\syst}         {({\it syst.})~}
-\newcommand{\Taa}        {$T_\mathrm{AA}$}
-\newcommand{\avTaa}      {$\langle T_\mathrm{AA} \rangle$}
-\newcommand{\Tab}        {$T_\mathrm{AB}$ }
-\newcommand{\avTab}      {$\langle T_\mathrm{AB} \rangle$}
-\newcommand{\Npart}        {$N_\mathrm{part}$}
-\newcommand{\avNpart}      {$\langle N_\mathrm{part} \rangle$}
-\newcommand{\Ncoll}        {$N_\mathrm{coll}$}
-\newcommand{\avNcoll}      {$\langle N_\mathrm{coll} \rangle$}
-\newcommand{\green}[1]     {\textcolor{green}{#1}}
-\newcommand{\blue}[1]      {\textcolor{blue}{#1}}
-\newcommand{\red}[1]       {\textcolor{red}{#1}}
-\newcommand{\comkch}	{\mbox{K$^{*}$(892)$^{\mathrm{\pm}}$}}
-\newcommand{\kch}	{\mbox{\K$^{*\mathrm{\pm}}$}}
-\newcommand{\kshort}	{\mbox{$\mathrm {K^0_S}$}}
-\newcommand{\kzero}	{\mbox{$\mathrm {K^0}$}}
+%\newcommand{\jpsi}{\rm J/$\psi$}
+%\newcommand{\psip}{$\psi^\prime$}
+%\newcommand{\jpsiDY}{\rm J/$\psi$\,/\,DY}
+%\newcommand{\dd}{\mathrm{d}}
+%\newcommand{\chic}{$\chi_{\rm c}$}
+%\newcommand{\ezdc}{$E_{\rm ZDC}$}
+%\newcommand{\red}{\textcolor{red}}
+%\newcommand{\blue}{\textcolor{blue}}
+%\newcommand{\kch}{\ensuremath{\rm K^*(892)^{\pm}} }
+%\newcommand{\kshort}{\ensuremath{\rm K^{0}_S} }
+%\newcommand{\kpm}{\ensuremath{\rm K(892)^{*\pm}} }
+%\newcommand{\kN}{\ensuremath{{\rm K}^{*0}} }
+\newcommand{\sqrtS}{\ensuremath{\sqrt{s}}}
+\newcommand{\slfrac}[2]{\left.#1\right/#2}
+
+\newcommand{\MeVc}{\ensuremath{\mathrm{MeV}\kern-0.05em/\kern-0.02em c}}
+\newcommand{\GeVc}{\ensuremath{\mathrm{GeV}\kern-0.05em/\kern-0.02em c}}
+\newcommand{\GeVcSq}{\ensuremath{\mathrm{GeV}\kern-0.05em/\kern-0.02em c^2}}
+\newcommand{\cLight}{\textit{c}}
+\newcommand{\lumiUnit}{\ensuremath{{\rm cm}^{-2} {\rm s}^{-1}}}
+\newcommand{\degree}{\ensuremath{^{\rm o}} }
+\newcommand{\invmb}{\mathrm{mb}^{-1}}
+\newcommand{\invmbps}{\invmb\mathrm{s}^{-1}}
+\newcommand{\invub}{\mu\mathrm{b}^{-1}}
+\newcommand{\invubps}{\invub\mathrm{s}^{-1}}
+\newcommand{\invnb}{\mathrm{nb}^{-1}}
+\newcommand{\invnbps}{\invnb\mathrm{s}^{-1}}
+\newcommand{\invpb}{\mathrm{pb}^{-1}}
+\newcommand{\invpbps}{\invpb\mathrm{s}^{-1}} % /pb/s
+\newcommand{\sqrtSnn}{\ensuremath{\sqrt{s_{\mathrm{NN}}}}}
+\newcommand{\sqrtSE}[2][TeV]{$\sqrtS = #2\,\mathrm{#1}$}
+\newcommand{\sqrtSnnE}[2][TeV]{$\sqrtSnn = #2\,\mathrm{#1}$}
+\newcommand{\pT}{\ensuremath{p_{\mathrm{T}}}}
+\newcommand{\meanpT}{$\langle$\ensuremath{p_{\mathrm{T}}}$\rangle$}
+%\newcommand{\dEdx}{\ensuremath{\mathrm{d}E/\mathrm{d}x }}
+\newcommand {\dedx}{d$E$/d$x$}
+\newcommand{\dndy}{\ensuremath{\mathrm{d}N/\mathrm{d}y}}
+\newcommand{\dndeta}{\ensuremath{\mathrm{d}N_{\rm ch}/\mathrm{d}\eta}}
+\newcommand{\dndydpt}{\ensuremath{\mathrm{d}^2 N/(\mathrm{d}y \mathrm{d}\pT)}}
+\newcommand{\Raa}{\ensuremath{R_\mathrm{AA}}}
+\newcommand{\Taa}{\ensuremath{T_\mathrm{AA}}}
+\newcommand{\modrap} {$\left | y \right |$}
+\newcommand{\ncoll}{\ensuremath{N_{\mathrm{coll}}}}
+\newcommand{\npart}{\ensuremath{N_{\mathrm{part}}}}
+\newcommand{\pp}{\ensuremath{\mathrm {p\kern-0.05em p}}}
+\newcommand{\PbPb}{\ensuremath{\mbox{Pb--Pb}}}
+\newcommand{\pPb}{\ensuremath{\mbox{p--Pb}}}
+\newcommand{\Pbp}{\ensuremath{\mbox{Pb--p}}}
+\newcommand{\pip}{\ensuremath{\pi^{+}}}
+\newcommand{\pim}{\ensuremath{\pi^{-}}}
+\newcommand{\ppm}{\ensuremath{\pi^{\pm}} }
+\newcommand{\piz}{\ensuremath{\pi^{0}}}
+\newcommand{\VZERO}{V$^{\mathrm 0}$}
+
+%
+% second, some units
+%
+\newcommand {\gmom} {GeV/$c$}
+\newcommand {\mmom} {MeV/$c$}
+\newcommand {\mmass} {MeV/$c^{\mathrm 2}$}
+\newcommand {\gmass} {GeV/$c^{\mathrm 2}$}
+\newcommand {\fmc} {fm/$c$}
+%
+%
+% third, some particles
+%
+\newcommand{\K}{\mbox{$\mathrm {K}$}}
+\newcommand{\kcharged}{\mbox{$\mathrm {K^{\pm}}$}}
+\newcommand{\p}{\mbox{$\mathrm {p}$}}
+\newcommand{\ap}{\mbox{$\mathrm {\overline{p}}$}}
+\newcommand{\pion}{\mbox {$\mathrm {\pi}$}}
+\newcommand{\meanpion}{\mbox {$\langle \mathrm{\pi}^{\pm}\rangle$}}
+\newcommand{\kshort}{\mbox{$\mathrm {K^0_S}$}}
+\newcommand{\kzero}{\mbox{$\mathrm {K^{*0}}$}}
+\newcommand{\rmLambda}{\mbox{$\mathrm {\Lambda}$}}
+\newcommand{\rmAlambda}{\mbox{$\mathrm {\overline{\Lambda}}$}}
+\newcommand{\rmXi}{\mbox{$\mathrm {\Xi^{-}}$}}
+\newcommand{\rmAxi}{\mbox{$\mathrm {\overline{\Xi}^{+}}$}}
+\newcommand{\rmOmega}{\mbox{$\mathrm {\Omega^{-}}$}}
+\newcommand{\rmAomega}{\mbox{$\mathrm {\overline{\Omega}^{+}}$}}
+\newcommand{\Xis}{\mbox{$\mathrm {\Xi^{-}+\overline{\Xi}^{+}}$}}
+\newcommand{\kstarZ}{\mbox{\K$^{*}$(892)$^{\mathrm{0}}$}}
+\newcommand{\akstarZ}{\mbox{$\overline{\K^{*}}$(892)$^{\mathrm{0}}$}}
+\newcommand{\kstarch}{\mbox{\K$^{*}$(892)$^{\mathrm{\pm}}$}}
+\newcommand{\simplekstarch}{\mbox{\K$^{*\mathrm{\pm}}$}}
+\newcommand{\phir}{\mbox{$\mathrm {\phi}$(1020)}}
+\newcommand{\rmphi}{\mbox{$\mathrm{\phi}$}}
+\newcommand{\simplekstar}{\mbox{\K$^{*0}$}}
+\newcommand{\rmrho}{\mbox{$\mathrm {\rho}$(770)$^{\mathrm{0}}$}}
+\newcommand{\simplerho}{\mbox{$\mathrm{\rho}^{\mathrm{0}}$}}
+\newcommand{\Sigmastar}{\mbox{$\mathrm{\Sigma}$(1385)$^{\mathrm{\pm}}$}}
+\newcommand{\ASigmastar}{\mbox{$\mathrm{\overline{\Sigma}}$(1385)$^{\mathrm{\mp}}$}}
+\newcommand{\simplesigmastar}{\mbox{$\mathrm{\Sigma}^{\mathrm{*\pm}}$}}
+\newcommand{\simpleasigmastar}{\mbox{$\mathrm{\overline{\Sigma}}^{\mathrm{*\mp}}$}}
+\newcommand{\Xistar}{\mbox{$\mathrm {\Xi}$(1530)$^{\mathrm{0}}$}}
+\newcommand{\AXistar}{\mbox{$\mathrm {\overline{\Xi}}$(1530)$^{\mathrm{0}}$}}
+\newcommand{\simplexistar}{\mbox{$\mathrm {\Xi}^{\mathrm{*0}}$}}
+\newcommand{\simpleaxistar}{\mbox{$\mathrm {\overline{\Xi}}^{\mathrm{*0}}$}}
+\newcommand{\ssbar} {{s$\overline{\mathrm s}$}}
+\newcommand{\rmomega}{\mbox{$\mathrm{\omega}$(782)}}
+\newcommand{\rmfz}{\mbox{f$_{\mathrm{0}}$(980)}}
+\newcommand{\rmftwo}{\mbox{f$_{\mathrm{2}}$(1270)}}
 
 
 

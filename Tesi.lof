@@ -1,124 +1,16 @@
 \select@language {english}
 \deactivateaddvspace 
-\addvspace {10\p@ }
-\contentsline {xchapter}{Physics of the Quark-Gluon Plasma}{5}{chapter.1}
-\contentsline {figure}{\numberline {1}{\ignorespaces Standard Model: the fundamental constituents.}}{6}{figure.caption.2}
-\contentsline {figure}{\numberline {2}{\ignorespaces Standard Model: the forces.}}{7}{figure.caption.3}
-\contentsline {figure}{\numberline {3}{\ignorespaces QCD lagrangian in terms of Feynman diagrams.}}{10}{figure.caption.4}
-\contentsline {figure}{\numberline {4}{\ignorespaces $\alpha _{S}$ as a function of the energy scale $Q$.}}{11}{figure.caption.5}
-\contentsline {figure}{\numberline {5}{\ignorespaces Schematic view of two scenarios for hadronic matter.}}{13}{figure.caption.6}
-\contentsline {figure}{\numberline {6}{\ignorespaces Energy density as a function of $T/T_{c}$ predicted by lattice QCD.}}{14}{figure.caption.7}
-\contentsline {figure}{\numberline {7}{\ignorespaces Phase diagram of nuclear matter.}}{15}{figure.caption.9}
-\contentsline {figure}{\numberline {8}{\ignorespaces Snapshots illustrating a collision of two nuclei.}}{19}{figure.caption.11}
-\contentsline {figure}{\numberline {9}{\ignorespaces Schematic representation of the participant/spectator model.}}{20}{figure.caption.12}
-\contentsline {figure}{\numberline {10}{\ignorespaces Time evolution of a heavy-ion collision in a Bjorken scenario.}}{21}{figure.caption.13}
-\addvspace {10\p@ }
-\contentsline {xchapter}{Strangeness production in a Quark-Gluon Plasma}{23}{chapter.2}
-\contentsline {figure}{\numberline {11}{\ignorespaces The $J^{\pi } = 1/2^{+}$ ground state baryon octet.\relax }}{24}{figure.caption.15}
-\contentsline {figure}{\numberline {12}{\ignorespaces The $J^{\pi } = 3/2^{+}$ baryon decuplet.\relax }}{24}{figure.caption.16}
-\contentsline {figure}{\numberline {13}{\ignorespaces Feynman diagrams for the $s\overline {s}$ production in QGP.}}{26}{figure.caption.17}
-\contentsline {figure}{\numberline {14}{\ignorespaces Time evolution of strangeness to baryon density in a plasma.}}{27}{figure.caption.18}
-\contentsline {figure}{\numberline {15}{\ignorespaces Strangeness enhancement as a function of $\delimiter "426830A N_\mathrm {part} \delimiter "526930B $.}}{29}{figure.caption.19}
-\contentsline {figure}{\numberline {16}{\ignorespaces $\Lambda $/K$^{0}_{S}$\ ratios as a function of $p_{\rm T}$.}}{32}{figure.caption.20}
-\contentsline {figure}{\numberline {17}{\ignorespaces Equilibrium SHM fit to experimental data from NA49 and STAR.}}{34}{figure.caption.21}
-\contentsline {figure}{\numberline {18}{\ignorespaces Equilibrium SHM fit to experimental data from ALICE.}}{34}{figure.caption.22}
-\contentsline {figure}{\numberline {19}{\ignorespaces Non-equilibrium SHM fit to experimental data from ALICE.}}{35}{figure.caption.23}
-\contentsline {figure}{\numberline {20}{\ignorespaces Centrality dependence of the enhancement predicted by a canonical approach statistical model.}}{36}{figure.caption.24}
-\contentsline {figure}{\numberline {21}{\ignorespaces Competition between fragmentation and coalescence.}}{39}{figure.caption.25}
-\contentsline {figure}{\numberline {22}{\ignorespaces Prediction for $p_{\rm T}$\ spectrum of charged hadrons from fragmentation and recombination models.}}{40}{figure.caption.26}
-\contentsline {figure}{\numberline {23}{\ignorespaces $R_{\rm AA}$\ for charged particles measured in different colliding systems by ALICE and STAR.}}{42}{figure.caption.27}
-\contentsline {figure}{\numberline {24}{\ignorespaces $R_{\rm AA}$\ as a function of $p_{\rm T}$\ for identified particles measured by ALICE.}}{43}{figure.caption.28}
-\contentsline {figure}{\numberline {25}{\ignorespaces $R_{\rm AA}$\ and $R_{\rm CP}$\ as a function of $p_{\rm T}$\ measured by STAR.}}{44}{figure.caption.29}
-\addvspace {10\p@ }
-\contentsline {xchapter}{The ALICE experiment}{45}{chapter.3}
-\contentsline {figure}{\numberline {26}{\ignorespaces The CERN accelerator complex.}}{46}{figure.caption.30}
-\contentsline {figure}{\numberline {27}{\ignorespaces The ALICE detector.}}{50}{figure.caption.31}
-\contentsline {figure}{\numberline {28}{\ignorespaces Schematic view of the ITS.}}{52}{figure.caption.33}
-\contentsline {figure}{\numberline {29}{\ignorespaces Track impact parameter to primary vertex resolution in the transverse plane.}}{53}{figure.caption.34}
-\contentsline {figure}{\numberline {30}{\ignorespaces The $X$ and $Z$ coordinate vertex resolutions.}}{54}{figure.caption.35}
-\contentsline {figure}{\numberline {31}{\ignorespaces Schematic view of the TPC.}}{55}{figure.caption.36}
-\contentsline {figure}{\numberline {32}{\ignorespaces Momentum resolution in \unhbox \voidb@x \hbox {Pb--Pb}\ collisions.}}{56}{figure.caption.37}
-\contentsline {figure}{\numberline {33}{\ignorespaces Global view of ALICE\IeC {\textquoteright }s data flow.}}{59}{figure.caption.38}
-\contentsline {figure}{\numberline {34}{\ignorespaces ALICE Grid sites.}}{61}{figure.caption.39}
-\contentsline {figure}{\numberline {35}{\ignorespaces Schema of the AliRoot framework.}}{62}{figure.caption.40}
-\contentsline {figure}{\numberline {36}{\ignorespaces Principle of track reconstruction in an ALICE event.}}{64}{figure.caption.41}
-\contentsline {figure}{\numberline {37}{\ignorespaces Specific energy loss in the TPC as a function of momentum.}}{67}{figure.caption.42}
-\contentsline {figure}{\numberline {38}{\ignorespaces Distribution of the summed amplitudes in the VZERO.}}{69}{figure.caption.43}
-\contentsline {figure}{\numberline {39}{\ignorespaces Geometric properties obtained from a Glauber Monte Carlo.}}{70}{figure.caption.44}
-\addvspace {10\p@ }
-\contentsline {xchapter}{Cascade identification using topological reconstruction}{71}{chapter.4}
-\contentsline {figure}{\numberline {40}{\ignorespaces Sketch of the cascade decay for charged multi-strange baryons.}}{73}{figure.caption.46}
-\contentsline {figure}{\numberline {41}{\ignorespaces ALICE Event Displays for \unhbox \voidb@x \hbox {Pb--Pb}\ and pp\ collisions.}}{74}{figure.caption.47}
-\contentsline {figure}{\numberline {42}{\ignorespaces Definition of $V^{0}$ and cascade cut variables.}}{76}{figure.caption.49}
-\contentsline {figure}{\numberline {43}{\ignorespaces Physical track-finding efficiency in \unhbox \voidb@x \hbox {Pb--Pb}\ and pp.}}{79}{figure.caption.50}
-\addvspace {10\p@ }
-\contentsline {xchapter}{Multi-strange baryon analysis in \unhbox \voidb@x \hbox {Pb--Pb}\ collisions}{81}{chapter.5}
-\contentsline {figure}{\numberline {44}{\ignorespaces $\Omega $\ invariant mass value against $\Xi $\ invariant mass values.}}{85}{figure.caption.52}
-\contentsline {figure}{\numberline {45}{\ignorespaces Invariant mass distributions for $\Xi $\ and $\Omega $.}}{87}{figure.caption.54}
-\contentsline {figure}{\numberline {46}{\ignorespaces Quality Assurance check procedure on the topological cuts value.}}{89}{figure.caption.55}
-\contentsline {figure}{\numberline {47}{\ignorespaces QA plots, STEP A: cosine of pointing angle for the $\Xi ^{-}$.}}{91}{figure.caption.56}
-\contentsline {figure}{\numberline {48}{\ignorespaces QA plots, STEP A: fiducial radius in the transverse plane for the $\Xi ^{-}$.}}{92}{figure.caption.57}
-\contentsline {figure}{\numberline {49}{\ignorespaces QA plots, STEP A: DCA between the $V^{0}$ daughters for the $\Xi ^{-}$.}}{93}{figure.caption.58}
-\contentsline {figure}{\numberline {50}{\ignorespaces QA plots, STEP A: decay length distribution for the $\Xi ^{-}$.}}{94}{figure.caption.59}
-\contentsline {figure}{\numberline {51}{\ignorespaces QA plots, STEP C: cosine of pointing angle for the $\Xi ^{-}$.}}{95}{figure.caption.60}
-\contentsline {figure}{\numberline {52}{\ignorespaces QA plots, STEP C: fiducial radius in the transverse plane for the $\Xi ^{-}$.}}{96}{figure.caption.61}
-\contentsline {figure}{\numberline {53}{\ignorespaces QA plots, STEP C: DCA between the $V^{0}$ daughters for the $\Xi ^{-}$.}}{97}{figure.caption.62}
-\contentsline {figure}{\numberline {54}{\ignorespaces QA plots, STEP C: decay length distribution for the $\Xi ^{-}$.}}{98}{figure.caption.63}
-\contentsline {figure}{\numberline {55}{\ignorespaces Invariant mass distributions for $\Xi $\ and $\Omega $\ in two different sets of cuts.}}{99}{figure.caption.64}
-\contentsline {figure}{\numberline {56}{\ignorespaces Invariant mass distributions for $\Xi ^{-}$\ and $\Omega ^{-}$\ for different centrality bins.}}{99}{figure.caption.65}
-\contentsline {figure}{\numberline {57}{\ignorespaces Example of signal extraction on the $\Omega ^{-}$ invariant mass distribution.}}{101}{figure.caption.66}
-\contentsline {figure}{\numberline {58}{\ignorespaces Cascades uncorrected $p_{\rm T}$\ spectra in five centrality bins.}}{102}{figure.caption.68}
-\contentsline {figure}{\numberline {59}{\ignorespaces Distribution in rapidity of the $\Xi ^{-}$\ acceptance-efficiency.}}{104}{figure.caption.69}
-\contentsline {figure}{\numberline {60}{\ignorespaces Distribution in rapidity of the $\Omega ^{-}$\ acceptance-efficiency.}}{105}{figure.caption.70}
-\contentsline {figure}{\numberline {61}{\ignorespaces Ratios of efficiencies computed using ``good'' and ``bad'' runs.}}{106}{figure.caption.71}
-\contentsline {figure}{\numberline {62}{\ignorespaces Ratios of efficiencies computed using ``injected'' and standard HIJING.}}{107}{figure.caption.72}
-\contentsline {figure}{\numberline {63}{\ignorespaces Rapidity distributions for MC generated particles with and without the $dy/d\theta $ weigthing.}}{108}{figure.caption.73}
-\contentsline {figure}{\numberline {64}{\ignorespaces Ratios of efficiency computed using or not the $dy/d\theta $ weigthing.}}{109}{figure.caption.74}
-\contentsline {figure}{\numberline {65}{\ignorespaces Cascade and daughter momentum correlation.}}{110}{figure.caption.75}
-\contentsline {figure}{\numberline {66}{\ignorespaces GEANT3/FLUKA correction factors for the primary proton and antiproton.}}{111}{figure.caption.76}
-\contentsline {figure}{\numberline {67}{\ignorespaces Fit on the efficiency factors as a function of $p_{\rm T}$\ for the $\Xi ^{-}$\ and for the $\Omega ^{-}$.}}{111}{figure.caption.77}
-\contentsline {figure}{\numberline {68}{\ignorespaces Efficiencies as a function of $p_{\rm T}$\ and centrality for $\Xi ^{-}$\ and $\Omega ^{-}$.}}{112}{figure.caption.78}
-\contentsline {figure}{\numberline {69}{\ignorespaces Systematic as a function of $p_{\rm T}$\ for the $\Xi $\ mass hypothesis in $\Omega $\ reconstruction.}}{114}{figure.caption.80}
-\contentsline {figure}{\numberline {70}{\ignorespaces Systematic as a function of $p_{\rm T}$\ for topological cut variation.}}{115}{figure.caption.81}
-\contentsline {figure}{\numberline {71}{\ignorespaces Systematic as a function of $p_{\rm T}$\ for signal extraction technique.}}{116}{figure.caption.82}
-\contentsline {figure}{\numberline {72}{\ignorespaces Corrected $p_{\rm T}$\ spectra in the five centrality classes for each particle.}}{118}{figure.caption.83}
-\contentsline {figure}{\numberline {73}{\ignorespaces Fitted distributions of $mcL/p$ for generated (injected) particles.}}{119}{figure.caption.84}
-\contentsline {figure}{\numberline {74}{\ignorespaces Corrected $mcL/p$ distributions for the four cascades.}}{120}{figure.caption.85}
-\contentsline {figure}{\numberline {75}{\ignorespaces Corrected spectra for $\Xi ^{-}$\ (left) and $\Omega ^{-}$ fitted with different functions.}}{122}{figure.caption.87}
-\addvspace {10\p@ }
-\contentsline {xchapter}{Multi-strange baryon analysis in pp\ collisions}{125}{chapter.6}
-\contentsline {figure}{\numberline {76}{\ignorespaces Invariant mass distributions for the cascades in pp\ collisions.}}{129}{figure.caption.91}
-\contentsline {figure}{\numberline {77}{\ignorespaces Examples of signal extraction in pp\ collisions analysis.}}{131}{figure.caption.92}
-\contentsline {figure}{\numberline {78}{\ignorespaces Uncorrected $p_{\rm T}$\ spectra for cascades in pp\ collisions analysis.}}{132}{figure.caption.94}
-\contentsline {figure}{\numberline {79}{\ignorespaces Distributions in rapidity of acceptance-efficiency in pp\ collisions.}}{133}{figure.caption.95}
-\contentsline {figure}{\numberline {80}{\ignorespaces GEANT3-FLUKA correction factors.}}{134}{figure.caption.96}
-\contentsline {figure}{\numberline {81}{\ignorespaces Efficiency as a function of $p_{\rm T}$\ in pp\ collision analysis.}}{135}{figure.caption.97}
-\contentsline {figure}{\numberline {82}{\ignorespaces Distribution of the $Z$ coordinate of Primary Vertex in Data and MC.}}{135}{figure.caption.98}
-\contentsline {figure}{\numberline {83}{\ignorespaces Dependence of the efficiency on the Z vertex selection.}}{137}{figure.caption.99}
-\contentsline {figure}{\numberline {84}{\ignorespaces Efficiency factors re-weighted to the experimental data $Z_{PV}$ distribution.}}{138}{figure.caption.100}
-\contentsline {figure}{\numberline {85}{\ignorespaces Comparison of the standard and re-weighted efficiency.}}{139}{figure.caption.101}
-\contentsline {figure}{\numberline {86}{\ignorespaces Systematic as a function of $p_{\rm T}$\ for rapidity cut.}}{141}{figure.caption.103}
-\contentsline {figure}{\numberline {87}{\ignorespaces Systematic as a function of $p_{\rm T}$\ for $\Xi $\ mass hypothesis in $\Omega $\ reconstruction.}}{141}{figure.caption.104}
-\contentsline {figure}{\numberline {88}{\ignorespaces Systematic as a function of $p_{\rm T}$\ for signal extraction.}}{142}{figure.caption.105}
-\contentsline {figure}{\numberline {89}{\ignorespaces Systematic as a function of $p_{\rm T}$\ for the number of TPC clusters}}{142}{figure.caption.106}
-\contentsline {figure}{\numberline {90}{\ignorespaces Systematic as a function of $p_{\rm T}$\ for selection cuts.}}{143}{figure.caption.107}
-\contentsline {figure}{\numberline {91}{\ignorespaces Corrected $p_{\rm T}$\ spectra for the cascades in pp\ collision analysis.}}{145}{figure.caption.108}
-\contentsline {figure}{\numberline {92}{\ignorespaces Decay length check in pp\ collision analysis.}}{146}{figure.caption.109}
-\contentsline {figure}{\numberline {93}{\ignorespaces L\'evy-Tsallis fit on the corrected $p_{\rm T}$\ spectra.}}{147}{figure.caption.110}
-\contentsline {figure}{\numberline {94}{\ignorespaces Check the yield uncertainty due to the extrapolation procedure.}}{148}{figure.caption.113}
-\contentsline {figure}{\numberline {95}{\ignorespaces Corrected spectra with $\Omega $\ particle and antiparticle separated.}}{149}{figure.caption.115}
-\contentsline {figure}{\numberline {96}{\ignorespaces Signal extraction in critical bins.}}{150}{figure.caption.116}
-\addvspace {10\p@ }
-\contentsline {xchapter}{Further results and discussion}{151}{chapter.7}
-\contentsline {figure}{\numberline {97}{\ignorespaces Spectra in \unhbox \voidb@x \hbox {Pb--Pb}\ collisions compare with hydro model predictions.}}{152}{figure.caption.117}
-\contentsline {figure}{\numberline {98}{\ignorespaces Spectra in pp\ at collisions \unhbox \voidb@x \hbox {$\sqrt {s}$\ = $2.76$ TeV} compared with PYTHIA predictions.}}{154}{figure.caption.118}
-\contentsline {figure}{\numberline {99}{\ignorespaces Spectra in pp\ at \unhbox \voidb@x \hbox {$\sqrt {s}$\ = $7$ TeV} collisions compared with PYTHIA predictions.}}{155}{figure.caption.119}
-\contentsline {figure}{\numberline {100}{\ignorespaces Ratio of spectra in pp\ collisions at \unhbox \voidb@x \hbox {$\sqrt {s}$\ = $2.76$ TeV} and the prediction by PYTHIA \unhbox \voidb@x \hbox {Perugia 2012} tune.}}{155}{figure.caption.120}
-\contentsline {figure}{\numberline {101}{\ignorespaces Cascade yields in pp\ collisions at \unhbox \voidb@x \hbox {$\sqrt {s}$\ = $2.76$ TeV} extrapolated.}}{156}{figure.caption.121}
-\contentsline {figure}{\numberline {102}{\ignorespaces Enhancements as a function of the mean number of participants.}}{158}{figure.caption.124}
-\contentsline {figure}{\numberline {103}{\ignorespaces Hyperon-to-pion ratios as a function of $\delimiter "426830A N_\mathrm {part} \delimiter "526930B $.}}{159}{figure.caption.125}
-\contentsline {figure}{\numberline {104}{\ignorespaces Ratio of the spectra and the fit functions.}}{161}{figure.caption.126}
-\contentsline {figure}{\numberline {105}{\ignorespaces Spectra in pp\ collisions with extrapolated points.}}{162}{figure.caption.127}
-\contentsline {figure}{\numberline {106}{\ignorespaces Fitting on the spectra in pp\ collisions comparison.}}{164}{figure.caption.130}
-\contentsline {figure}{\numberline {107}{\ignorespaces Ratio between fitting using L\'evy-Tsallis function and the modified Hagedorn function.}}{164}{figure.caption.131}
-\contentsline {figure}{\numberline {108}{\ignorespaces $R_{AA}$ as a function of $p_{T}$ in five centrality classes.}}{166}{figure.caption.133}
+\ttl@tocsep 
+\ttl@tocsep 
+\ttl@tocsep 
+\ttl@tocsep 
+\ttl@tocsep 
+\ttl@tocsep 
+\ttl@tocsep 
+\contentsline {figure}{\numberline {1}{\ignorespaces The CERN accelerator complex.}}{8}{figure.caption.2}
+\ttl@tocsep 
+\ttl@tocsep 
+\ttl@tocsep 
+\ttl@tocsep 
+\ttl@tocsep 
+\ttl@tocsep 
