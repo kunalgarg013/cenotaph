@@ -1,13 +1,57 @@
-\select@language {english}
+\babel@toc {english}{}
 \vspace {-\cftbeforechapskip }
-\contentsline {chapter}{Introduction}{1}{figure.caption.1}
-\contentsline {chapter}{\numberline {1}{Physics of the Quark-Gluon Plasma}}{3}{chapter.1}
-\contentsline {chapter}{\numberline {2}{Strangeness production in a Quark-Gluon Plasma}}{5}{chapter.2}
-\contentsline {chapter}{\numberline {3}{The ALICE experiment}}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}{Large Hadron Collider}}{7}{section.3.1}
-\contentsline {chapter}{\numberline {4}{Cascade identification using topological reconstruction}}{9}{chapter.4}
-\contentsline {chapter}{\numberline {5}{Multi-strange baryon analysis in \unhbox \voidb@x \hbox {Pb--Pb}\ collisions}}{11}{chapter.5}
-\contentsline {chapter}{\numberline {6}{Multi-strange baryon analysis in pp\ collisions}}{13}{chapter.6}
-\contentsline {chapter}{\numberline {7}{Further results and discussion}}{15}{chapter.7}
-\contentsline {chapter}{Conclusions}{17}{chapter.7}
-\contentsline {chapter}{Bibliography}{19}{chapter.7}
+\contentsline {chapter}{\numberline {1}{Physics of the Quark-Gluon Plasma}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Standard Model}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Quantum Chromodynamics and Quark-Gluon Plasma}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Heavy-Ion Physics}{1}{section.1.3}
+\contentsline {section}{\numberline {1.4}Physics of Small systems}{1}{section.1.4}
+\contentsline {chapter}{\numberline {2}{Hadronic resonance production in pp and heavy-ion collisions}}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Strange hadronic resonance production}{2}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}{Strangeness Production}}{2}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}{Resonances and Chemical and Kinetic freeze-out}}{2}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Recent resonance results at the LHC}{2}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}{Resonances in pp and p-Pb collisions}}{2}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}{Resonances in Pb-Pb collisions}}{2}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Theoretical Models}{2}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}{Microscopic Models}}{2}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}{Statistical Models}}{2}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}{Hybrid Models}}{3}{subsection.2.3.3}
+\contentsline {chapter}{\numberline {3}{A Large Ion Collider Experiment at LHC}}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Large Hadron Collider}{4}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}{The LHC as a heavy-ion accelerator}}{6}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}The ALICE Detector}{7}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}{Inner Tracking System}}{11}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}{The Time Projection Chamber}}{12}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}{The Time of Flight Detector}}{14}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}{VZERO}}{15}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}{Data Acquisition (DAQ) and Trigger systems }}{15}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}{Data flow: from the Online to the Offline }}{17}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}{ALICE Offline software framework }}{17}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}{Event reconstruction }}{17}{subsection.3.2.8}
+\contentsline {subsection}{\numberline {3.2.9}{Particle identification with the TPC }}{17}{subsection.3.2.9}
+\contentsline {subsection}{\numberline {3.2.10}{Centrality Determination?}}{17}{subsection.3.2.10}
+\contentsline {chapter}{\numberline {4}{\unhbox \voidb@x \hbox {$\mathrm {K^0}$}~ and \unhbox \voidb@x \hbox {\unhbox \voidb@x \hbox {$\mathrm {K}$}$^{*\mathrm {\pm }}$}~ resonance reconstruction in pp collisions}}{18}{chapter.4}
+\contentsline {section}{\numberline {4.1}Signal Extraction}{18}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}{Uncorrelated background estimate}}{18}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}$K^{*\pm }$ Mass Determination}{18}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}{Systematic uncertainty on mass estimation}}{18}{subsection.4.2.1}
+\contentsline {chapter}{\numberline {5}{Measurement of \unhbox \voidb@x \hbox {\unhbox \voidb@x \hbox {$\mathrm {K}$}$^{*\mathrm {\pm }}$}~ production in pp collisions}}{19}{chapter.5}
+\contentsline {section}{\numberline {5.1}\unhbox \voidb@x \hbox {\unhbox \voidb@x \hbox {$\mathrm {K}$}$^{*\mathrm {\pm }}$}~ reconstruction in pp collisions}{19}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}{Data sample and event selection}}{19}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}{Primary pion selection}}{19}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}{V$^{\mathrm 0}$~selection}}{19}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}{Signal Extraction}}{20}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}{Raw Yield Estimation}}{20}{subsection.5.1.5}
+\contentsline {section}{\numberline {5.2}Efficiency Correction}{20}{section.5.2}
+\contentsline {section}{\numberline {5.3}Systematic Uncertainties estimation}{20}{section.5.3}
+\contentsline {section}{\numberline {5.4}\unhbox \voidb@x \hbox {\unhbox \voidb@x \hbox {$\mathrm {K}$}$^{*\mathrm {\pm }}$}~ transverse momentum spectrum}{20}{section.5.4}
+\contentsline {chapter}{\numberline {6}{\unhbox \voidb@x \hbox {$\mathrm {K^0}$}~ Comparisons}}{21}{chapter.6}
+\contentsline {section}{\numberline {6.1}\unhbox \voidb@x \hbox {$\mathrm {K^0}$}~ reconstruction in pp collisions}{21}{section.6.1}
+\contentsline {section}{\numberline {6.2}Comparison of \unhbox \voidb@x \hbox {$\mathrm {K^0}$}~ and $K^{*\pm }$}{21}{section.6.2}
+\contentsline {chapter}{\numberline {7}{Further results and Discussions}}{22}{chapter.7}
+\contentsline {section}{\numberline {7.1}Particle Ratios}{22}{section.7.1}
+\contentsline {section}{\numberline {7.2}Model Comparison}{22}{section.7.2}
+\contentsline {section}{\numberline {7.3}Energy Dependence}{22}{section.7.3}
+\contentsline {section}{\numberline {7.4}$K^{*+}$ vs $K^{*-}$}{22}{section.7.4}
+\contentsline {chapter}{Conclusions}{23}{section.7.4}
+\contentsline {chapter}{Bibliography}{24}{section.7.4}

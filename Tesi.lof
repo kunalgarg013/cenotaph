@@ -1,4 +1,4 @@
-\select@language {english}
+\babel@toc {english}{}
 \deactivateaddvspace 
 \ttl@tocsep 
 \ttl@tocsep 
@@ -6,8 +6,13 @@
 \ttl@tocsep 
 \ttl@tocsep 
 \ttl@tocsep 
-\ttl@tocsep 
-\contentsline {figure}{\numberline {1}{\ignorespaces The CERN accelerator complex.}}{8}{figure.caption.2}
+\contentsline {figure}{\numberline {1}{\ignorespaces The CERN accelerator complex.}}{6}{figure.caption.2}
+\contentsline {figure}{\numberline {2}{\ignorespaces The ALICE detector}}{8}{figure.caption.3}
+\contentsline {figure}{\numberline {3}{\ignorespaces Cross Section of Central Barrel of ALICE}}{9}{figure.caption.4}
+\contentsline {figure}{\numberline {4}{\ignorespaces Inner Tracking System}}{11}{figure.caption.5}
+\contentsline {figure}{\numberline {5}{\ignorespaces dE/dx distribution of charged particles as function of their momentum, both measured by the ITS alone, in pp collisions at 13 TeV. The lines are a parametrization of the detector response based on the Bethe-Bloch formula.}}{13}{figure.caption.6}
+\contentsline {figure}{\numberline {6}{\ignorespaces Energy loss in TPC in pp collisions at $\sqrt {s} = 13$TeV}}{14}{figure.caption.7}
+\contentsline {figure}{\numberline {7}{\ignorespaces ALICE DAQ system}}{17}{figure.caption.8}
 \ttl@tocsep 
 \ttl@tocsep 
 \ttl@tocsep 

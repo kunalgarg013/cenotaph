@@ -1,7 +1,7 @@
+
 \documentclass[fontsize=12pt,                           % font dimension
                paper=a4,                                % A4 paper
-		oneside,
-              % twoside,                                 % front-back
+               %twoside,                                 % front-back
                open=right,                              % start chapter on the right page
                titlepage,                               % frontespizio
                numbers=noenddot,                        %
@@ -11,65 +11,63 @@
                BCOR=12mm,                               %
                DIV=calc,                                %
                %captions=tableheading                   % 
-               ]{book}                                                  
+               ]{scrreprt}                                                  
 
 
 \linespread{1.25}
-
-\usepackage[applemac]{inputenc}                
-\usepackage{scrextend}
-\usepackage{float}
-\usepackage{subfig}
-\usepackage[T1]{fontenc}                           
-\usepackage[english]{babel}                        
-\usepackage{indentfirst}                             
-\usepackage{amsmath,amssymb,amsthm} 
-\usepackage[compatibility=false]{caption}
-\usepackage[tight,english]{minitoc}         
-\usepackage{subfig}
-
-\usepackage[eulerchapternumbers,             
-                        subfig,                           
-                        beramono,                      
-                        eulermath,                      
-                        pdfspacing,                     
-                        dottedtoc]{classicthesis}   
-\usepackage{arsclassica}         
-\usepackage[
-  includehead,includefoot,
-  textwidth=336pt,
-  textheight=675pt,
-]{geometry}
-\usepackage{graphicx}                                     
-\usepackage{epsfig,rotating}                           
-\usepackage{epstopdf}                                   
-\usepackage{colortbl}                                    
-\usepackage{feynmf}                                     
+\KOMAoptions{DIV=last}
+\DeclareOldFontCommand{\bf}{\normalfont\bfseries}{\mathbf}
+%\usepackage[applemac]{inputenc}                % imposta la codifica di input;
+%\usepackage[T1]{fontenc}                                % la codifica dei font;
+\usepackage[english]{babel}                          % per scrivere in italiano e in inglese;
+\usepackage{indentfirst}                                  % rientra il primo paragrafo di ogni sezione;
+\usepackage{amsmath,amssymb,amsthm} % indispensabili per la matematica;
+\usepackage[compatibility=false]{caption}   %
+\usepackage[tight,english]{minitoc}               % per fare i miniindici;
+\usepackage{subfig}                                         % sottofigure, sottotabelle
+\usepackage{classicthesis-ldpkg}                  % carica molti pacchetti utili a ClassicThesis;
+\usepackage[eulerchapternumbers,              %  
+                        subfig,                                          % 
+                        beramono,                                   %
+                        eulermath,                                   %
+                        pdfspacing,                                 %
+                        dottedtoc]{classicthesis}           % lo stile ClassicThesis;
+\usepackage{arsclassica}                 % modifica alcuni aspetti di ClassicThesis;
+\usepackage{graphicx}                                     %
+\usepackage{epsfig,rotating}                           %
+\usepackage{epstopdf}                                     % DOM
+\usepackage{colortbl}                                       %
+\usepackage{feynmf}                                        %
 \newcolumntype{G}{>{\columncolor[gray]{0.8}}c}
 
-\usepackage{citation}                                   
-%\usepackage[left=3cm,right=3cm]{geometry}
+\usepackage{citation}                                     % un pacchetto personale;
+\usepackage[left=3cm,right=3cm]{geometry}
 %\hypersetup{linkcolor=red}
-\renewcommand\thefootnote{\textcolor{NavyBlue}{\arabic{footnote}}}
+%\renewcommand\thefootnote{\textcolor{NavyBlue}{\arabic{footnote}}} %Cambia colore agli indici 
                                                                                                                              %delle footnote
 \usepackage{listings}                
-\lstset{language=[Visual]C++,  
-basicstyle=\scriptsize\ttfamily}
+\lstset{language=[Visual]C++, basicstyle=\scriptsize\ttfamily}
 
 %\usepackage{lineno}    % inserire numero di pagina
 %\linenumbers
 
-\usepackage[Bjornstrup]{fncychap}    
-\ChNumVar{\fontsize{76}{80}\usefont{OT1}{ppl}{m}{n}\selectfont}
-\ChTitleVar{\raggedright\Large\usefont{OT1}{iwona}{b}{sc}}
-\newcommand{\virgolette}[1]{``#1''}
-\usepackage{mathrsfs}
-\usepackage{verbatim}
+\usepackage[Bjornstrup]{fncychap}     %Stile titolo capitoli\ChNumVar{\fontsize{76}{80}\usefont{OT1}{pzc}{m}{n}\selectfont}
+\ChTitleVar{\raggedleft\Large\sffamily\bfseries}\newcommand{\virgolette}[1]{``#1''}
+\usepackage{mathrsfs}   %L di Lagrangiana corretta
+\usepackage{verbatim}  %necessaria per il comando \comment{}
 
-\renewcommand\cftchapfont{\bf}                                            
-\renewcommand{\MakeMarkcase}[1]{\spacedlowsmallcaps{#1}}
-                                                                                            
-\usepackage{natbib}  
+\renewcommand\cftchapfont{\textbf}                                             % Titolo in Bold anche nell'indice
+\renewcommand{\MakeMarkcase}[1]{\spacedlowsmallcaps{#1}} %Header TofC, TofF e TofT nello
+                                                                                                                    %stesso stile degli altri capitoli
+\usepackage{natbib}   %Header bibliography nello stesso stile degli altri capitoli    
+
+\makeatletter
+\renewcommand\section{\@startsection{section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\normalfont\Makeuppercase\textbf}}% look at \contentsname
+\makeatother                                                                              
+
 \renewcommand\bibsection{
             \chapter*{Bibliography}
              \markboth{\spacedlowsmallcaps{Bibliography}}{\spacedlowsmallcaps{Bibliography}}
@@ -95,7 +93,7 @@ basicstyle=\scriptsize\ttfamily}
 \cleardoublepage\input{Chapters/3-List_of_tables}
 \cleardoublepage
 \pagenumbering{arabic}
-\cleardoublepage\input{Chapters/4-Introduction}
+%\cleardoublepage\input{Chapters/4-Introduction}
 \cleardoublepage\input{Chapters/5-Chapter1}
 \cleardoublepage\input{Chapters/6-Chapter2}
 \cleardoublepage\input{Chapters/7-Chapter3}
